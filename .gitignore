@@ -1,0 +1,16 @@
+/.gradle/
+/local.properties
+/work/
+/upstream/
+**/build/
+*.iml
+/.kotlin/
+/releases/
+/design/
+/design-qa.md
+**/__pycache__/
+*.pyc
+*.apk
+*.jks
+*.keystore
+.env
